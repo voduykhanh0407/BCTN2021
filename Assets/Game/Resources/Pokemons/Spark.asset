@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6709d403be034d74980049d716e1ca3b, type: 3}
+  m_Name: Spark
+  m_EditorClassIdentifier: 
+  name: Spark
+  anim: {fileID: 0}
+  description: 
+  sprite: {fileID: -4854296760032059285, guid: 4bd78f43019a7f140ac87e0877c1c861, type: 3}
+  type1: 3
+  type2: 5
+  maxHp: 100
+  attack: 20
+  defense: 30
+  spAttack: 60
+  spDefense: 30
+  speed: 30
+  growthRate: 2
+  expYield: 200
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7cd7c39d4478373408ba367b217e7ae1, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: df8c98431725cb6438940cadf0a135bb, type: 2}
+    level: 7

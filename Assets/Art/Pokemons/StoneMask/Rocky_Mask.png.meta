@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 33424d47d8a761042a8d2e2db65a59e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2618469520079920028
+    second: Rocky_Mask_0
+  - first:
+      213: -9029950758690904192
+    second: Rocky_Mask_1
+  - first:
+      213: 2613000282319825143
+    second: Rocky_Mask_2
+  - first:
+      213: 895570625126394594
+    second: Rocky_Mask_3
+  - first:
+      213: -5421731160639221492
+    second: Rocky_Mask_4
+  - first:
+      213: 3792098906274212253
+    second: Rocky_Mask_5
+  - first:
+      213: 5411306260289692270
+    second: Rocky_Mask_6
+  - first:
+      213: 5904157874936069159
+    second: Rocky_Mask_7
+  - first:
+      213: -1975323888434788169
+    second: Rocky_Mask_8
+  - first:
+      213: 3101867273171867315
+    second: Rocky_Mask_9
+  - first:
+      213: 7303471915357818757
+    second: Rocky_Mask_10
+  - first:
+      213: -8063195240893819541
+    second: Rocky_Mask_11
+  - first:
+      213: 5845493338467945767
+    second: Rocky_Mask_12
+  - first:
+      213: -6052280528242499297
+    second: Rocky_Mask_13
+  - first:
+      213: -7723988238356226689
+    second: Rocky_Mask_14
+  - first:
+      213: 8216454393463292482
+    second: Rocky_Mask_15
+  - first:
+      213: 3212388673676065483
+    second: Rocky_Mask_16
+  - first:
+      213: 3436990091979022498
+    second: Rocky_Mask_17
+  - first:
+      213: 2806732601768048548
+    second: Rocky_Mask_18
+  - first:
+      213: -5378442792563688574
+    second: Rocky_Mask_19
+  - first:
+      213: -4507486586049365280
+    second: Rocky_Mask_20
+  - first:
+      213: 4345855442540111418
+    second: Rocky_Mask_21
+  - first:
+      213: 6475445915095383430
+    second: Rocky_Mask_22
+  - first:
+      213: 6488194458708695547
+    second: Rocky_Mask_23
+  - first:
+      213: 4108084188095437690
+    second: Rocky_Mask_24
+  - first:
+      213: 4363228295118698558
+    second: Rocky_Mask_25
+  - first:
+      213: 8117414972371257214
+    second: Rocky_Mask_26
+  - first:
+      213: -5432665067983853773
+    second: Rocky_Mask_27
+  - first:
+      213: 8767627866981043177
+    second: Rocky_Mask_28
+  - first:
+      213: 5192949139190577873
+    second: Rocky_Mask_29
+  - first:
+      213: 8147208428096882410
+    second: Rocky_Mask_30
+  - first:
+      213: -2186398863586887758
+    second: Rocky_Mask_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocky_Mask_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 446
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b1d8fb72ca65420800000000000000
+      internalID: 2618469520079920028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 446
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a5f0b0ab2fa280800000000000000
+      internalID: -9029950758690904192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 446
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f82ba999ed334420800000000000000
+      internalID: 2613000282319825143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 368
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaeee51db4bd6c00800000000000000
+      internalID: 895570625126394594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 368
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01de662c3422c4b0800000000000000
+      internalID: -5421731160639221492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 368
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992f952ddd30a430800000000000000
+      internalID: 3792098906274212253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 368
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622a679f52d81b40800000000000000
+      internalID: 5411306260289692270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 368
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb3614e48cfe150800000000000000
+      internalID: 5904157874936069159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 368
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84081a36d3694e0800000000000000
+      internalID: -1975323888434788169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 328
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b691ddb9db0c0b20800000000000000
+      internalID: 3101867273171867315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 328
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc1f5f2052b5560800000000000000
+      internalID: 7303471915357818757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 328
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6557e726a6c91090800000000000000
+      internalID: -8063195240893819541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 328
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4b48783d5f1150800000000000000
+      internalID: 5845493338467945767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a7190deaf10ca0800000000000000
+      internalID: -6052280528242499297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 247
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5b73ee91eec490800000000000000
+      internalID: -7723988238356226689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 247
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c39bfcb5b60270800000000000000
+      internalID: 8216454393463292482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 247
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca33fe8a72b49c20800000000000000
+      internalID: 3212388673676065483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 247
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a062f85744a2bf20800000000000000
+      internalID: 3436990091979022498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 247
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a774eb3e6483f620800000000000000
+      internalID: 2806732601768048548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b3b70c6ceeb55b0800000000000000
+      internalID: -5378442792563688574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 209
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea70b8e4d03271c0800000000000000
+      internalID: -4507486586049365280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 124
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a362dc9ef749f4c30800000000000000
+      internalID: 4345855442540111418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 94
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db38b50c76dd950800000000000000
+      internalID: 6475445915095383430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 94
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf95df8fb72ba0a50800000000000000
+      internalID: 6488194458708695547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 94
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd3d2bdc8d20930800000000000000
+      internalID: 4108084188095437690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 94
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38bb7c540d4d8c30800000000000000
+      internalID: 4363228295118698558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 56
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7740a2d8e9d6a070800000000000000
+      internalID: 8117414972371257214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 15
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337262777eb4b94b0800000000000000
+      internalID: -5432665067983853773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 15
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb8836971fdca970800000000000000
+      internalID: 8767627866981043177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 15
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daff1a8abf011840800000000000000
+      internalID: 5192949139190577873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae688cb46e2b01170800000000000000
+      internalID: 8147208428096882410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocky_Mask_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7f59e41d958a1e0800000000000000
+      internalID: -2186398863586887758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6709d403be034d74980049d716e1ca3b, type: 3}
+  m_Name: Boo
+  m_EditorClassIdentifier: 
+  name: Boo
+  anim: {fileID: 0}
+  description: 
+  sprite: {fileID: -6052029439872931088, guid: e5c40ff4391826f4b9d88e1a9f3fa6c6, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 30
+  attack: 10
+  defense: 30
+  spAttack: 70
+  spDefense: 30
+  speed: 50
+  growthRate: 2
+  expYield: 200
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 2481044cc7a7632418dda6cfaeb62fbe, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 12287928452c3e64780381b608546139, type: 2}
+    level: 5

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6709d403be034d74980049d716e1ca3b, type: 3}
+  m_Name: StoneMask
+  m_EditorClassIdentifier: 
+  name: Stone Mask
+  anim: {fileID: 0}
+  description: 
+  sprite: {fileID: -5421731160639221492, guid: 33424d47d8a761042a8d2e2db65a59e7, type: 3}
+  type1: 11
+  type2: 13
+  maxHp: 30
+  attack: 10
+  defense: 40
+  spAttack: 50
+  spDefense: 20
+  speed: 30
+  growthRate: 1
+  expYield: 100
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 831fd11a8d3ff8243bdf036ebab88f98, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b55d4f8feba71cc40870f547d0842df7, type: 2}
+    level: 3

@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: 1fc2d9a7ba2e49147823157d56d5a232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1257731484012204673
+    second: BookGhost_0
+  - first:
+      213: -4598153216482032196
+    second: BookGhost_1
+  - first:
+      213: -3607337526063641320
+    second: BookGhost_2
+  - first:
+      213: -2947336213509027518
+    second: BookGhost_3
+  - first:
+      213: 6770530329523385014
+    second: BookGhost_4
+  - first:
+      213: 2830883979292031121
+    second: BookGhost_5
+  - first:
+      213: 7303833755738410591
+    second: BookGhost_6
+  - first:
+      213: 8506242928913571250
+    second: BookGhost_7
+  - first:
+      213: 582191703518543535
+    second: BookGhost_8
+  - first:
+      213: 5740992364500816467
+    second: BookGhost_9
+  - first:
+      213: 7127468816387201639
+    second: BookGhost_10
+  - first:
+      213: 4646191447301141516
+    second: BookGhost_11
+  - first:
+      213: 3834932327746951536
+    second: BookGhost_12
+  - first:
+      213: 3769653360007959402
+    second: BookGhost_13
+  - first:
+      213: 8544020902846710603
+    second: BookGhost_14
+  - first:
+      213: 1024363265205802830
+    second: BookGhost_15
+  - first:
+      213: -6822371518216547457
+    second: BookGhost_16
+  - first:
+      213: -4003809675121607263
+    second: BookGhost_17
+  - first:
+      213: -7266556773649798024
+    second: BookGhost_18
+  - first:
+      213: -4832988514418794967
+    second: BookGhost_19
+  - first:
+      213: -7586921856190381872
+    second: BookGhost_20
+  - first:
+      213: 3533792397739946128
+    second: BookGhost_21
+  - first:
+      213: -4924455240292901113
+    second: BookGhost_22
+  - first:
+      213: -918215399106996875
+    second: BookGhost_23
+  - first:
+      213: -919445699002924704
+    second: BookGhost_24
+  - first:
+      213: 4586890463867994747
+    second: BookGhost_25
+  - first:
+      213: -8953386898714245414
+    second: BookGhost_26
+  - first:
+      213: -2143526593134012817
+    second: BookGhost_27
+  - first:
+      213: 2957824599436840337
+    second: BookGhost_28
+  - first:
+      213: 8659725518714888097
+    second: BookGhost_29
+  - first:
+      213: 1812824172387384644
+    second: BookGhost_30
+  - first:
+      213: 1616086097659374531
+    second: BookGhost_31
+  - first:
+      213: -6873411925065906382
+    second: BookGhost_32
+  - first:
+      213: -5810229472335787492
+    second: BookGhost_33
+  - first:
+      213: 3706355572543863823
+    second: BookGhost_34
+  - first:
+      213: 4194387776647076553
+    second: BookGhost_35
+  - first:
+      213: -3826526540469986356
+    second: BookGhost_36
+  - first:
+      213: 8956535789158915126
+    second: BookGhost_37
+  - first:
+      213: 4132128217494328204
+    second: BookGhost_38
+  - first:
+      213: 1283362260363078430
+    second: BookGhost_39
+  - first:
+      213: -426196873582791618
+    second: BookGhost_40
+  - first:
+      213: 2515470127152753159
+    second: BookGhost_41
+  - first:
+      213: -1596914561274859993
+    second: BookGhost_42
+  - first:
+      213: 3192767395906116120
+    second: BookGhost_43
+  - first:
+      213: -2997530667421244699
+    second: BookGhost_44
+  - first:
+      213: -4309450831961701624
+    second: BookGhost_45
+  - first:
+      213: -2278429850830587478
+    second: BookGhost_46
+  - first:
+      213: -7080795334158588094
+    second: BookGhost_47
+  - first:
+      213: 8788510320938010198
+    second: BookGhost_48
+  - first:
+      213: -8065632472036581628
+    second: BookGhost_49
+  - first:
+      213: 7757129910638328006
+    second: BookGhost_50
+  - first:
+      213: -1261801927951896818
+    second: BookGhost_51
+  - first:
+      213: 1839021881445782094
+    second: BookGhost_52
+  - first:
+      213: -1493196387685324168
+    second: BookGhost_53
+  - first:
+      213: -2893485756247353759
+    second: BookGhost_54
+  - first:
+      213: 4015819780547012994
+    second: BookGhost_55
+  - first:
+      213: 3171973226744027508
+    second: BookGhost_56
+  - first:
+      213: -599242452767690774
+    second: BookGhost_57
+  - first:
+      213: -3038660126331707177
+    second: BookGhost_58
+  - first:
+      213: 7641943951013956784
+    second: BookGhost_59
+  - first:
+      213: -5714655711979985137
+    second: BookGhost_60
+  - first:
+      213: 7494901337054161618
+    second: BookGhost_61
+  - first:
+      213: 8203584755617827732
+    second: BookGhost_62
+  - first:
+      213: -6574197939828130247
+    second: BookGhost_63
+  - first:
+      213: 8334599128284823149
+    second: BookGhost_64
+  - first:
+      213: -7286601662057907605
+    second: BookGhost_65
+  - first:
+      213: 3977572830268975364
+    second: BookGhost_66
+  - first:
+      213: 6690806164947618745
+    second: BookGhost_67
+  - first:
+      213: -6326862254522780809
+    second: BookGhost_68
+  - first:
+      213: 3365066656866951669
+    second: BookGhost_69
+  - first:
+      213: 2038945956622169798
+    second: BookGhost_70
+  - first:
+      213: -6282630329297212163
+    second: BookGhost_71
+  - first:
+      213: -6174056260105702074
+    second: BookGhost_72
+  - first:
+      213: -5860190019691867600
+    second: BookGhost_73
+  - first:
+      213: 6683655072871533196
+    second: BookGhost_74
+  - first:
+      213: -6851316303937066506
+    second: BookGhost_75
+  - first:
+      213: 1147845687701969802
+    second: BookGhost_76
+  - first:
+      213: 6683894924335819877
+    second: BookGhost_77
+  - first:
+      213: 3621040884339209174
+    second: BookGhost_78
+  - first:
+      213: -4149013177320747132
+    second: BookGhost_79
+  - first:
+      213: -4569231285793807628
+    second: BookGhost_80
+  - first:
+      213: 5772006252269992075
+    second: BookGhost_81
+  - first:
+      213: -3075939853819440399
+    second: BookGhost_82
+  - first:
+      213: -1981186023333887892
+    second: BookGhost_83
+  - first:
+      213: -3284710340347425076
+    second: BookGhost_84
+  - first:
+      213: 2784189006388459152
+    second: BookGhost_85
+  - first:
+      213: 7407816764442695042
+    second: BookGhost_86
+  - first:
+      213: 1202665135820687561
+    second: BookGhost_87
+  - first:
+      213: -7354916318630546991
+    second: BookGhost_88
+  - first:
+      213: -5800718526188806699
+    second: BookGhost_89
+  - first:
+      213: 934341715785108373
+    second: BookGhost_90
+  - first:
+      213: -9139823454837955825
+    second: BookGhost_91
+  - first:
+      213: 1746412454247706570
+    second: BookGhost_92
+  - first:
+      213: -1852678553954718640
+    second: BookGhost_93
+  - first:
+      213: -7622541983144754956
+    second: BookGhost_94
+  - first:
+      213: 4905328978639119660
+    second: BookGhost_95
+  - first:
+      213: 150863311421368088
+    second: BookGhost_96
+  - first:
+      213: -2133070702175160123
+    second: BookGhost_97
+  - first:
+      213: -5093046365776195124
+    second: BookGhost_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BookGhost_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 589
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1825f57fe1c547110800000000000000
+      internalID: 1257731484012204673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 664
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c4ccf2041030c0800000000000000
+      internalID: -4598153216482032196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 589
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d4a0ee1a920fdc0800000000000000
+      internalID: -3607337526063641320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 658
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24946285455f817d0800000000000000
+      internalID: -2947336213509027518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 589
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ff308671c5fd50800000000000000
+      internalID: 6770530329523385014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 662
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198bb020bf1594720800000000000000
+      internalID: 2830883979292031121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 589
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e8b4d7a1e6c5560800000000000000
+      internalID: 7303833755738410591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 665
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd521730ee3c0670800000000000000
+      internalID: 8506242928913571250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 589
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faef66f054c541800800000000000000
+      internalID: 582191703518543535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 589
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521d40732a1caf40800000000000000
+      internalID: 5740992364500816467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 667
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ade64202bd9e260800000000000000
+      internalID: 7127468816387201639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 635
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04b7d631869a7040800000000000000
+      internalID: 4646191447301141516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 642
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079d40d32aa683530800000000000000
+      internalID: 3834932327746951536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 640
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d1a922cf705430800000000000000
+      internalID: 3769653360007959402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 617
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c0b33eb5729670800000000000000
+      internalID: 8544020902846710603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 621
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e471d8f56f4473e00800000000000000
+      internalID: 1024363265205802830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 621
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73d5fa20411251a0800000000000000
+      internalID: -6822371518216547457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 622
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adba16405c9f68c0800000000000000
+      internalID: -4003809675121607263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 623
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c256e3d11082b90800000000000000
+      internalID: -7266556773649798024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 623
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e568a6d86cdecb0800000000000000
+      internalID: -4832988514418794967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 483
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0002fd4c6d5b690800000000000000
+      internalID: -7586921856190381872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 556
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090f341867d8a0130800000000000000
+      internalID: 3533792397739946128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 483
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd702cc02d8abb0800000000000000
+      internalID: -4924455240292901113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 482
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5751fec95f7d143f0800000000000000
+      internalID: -918215399106996875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 482
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0618ba812097d33f0800000000000000
+      internalID: -919445699002924704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 482
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b728a721398e7af30800000000000000
+      internalID: 4586890463867994747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 482
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6408d7d0e2fb380800000000000000
+      internalID: -8953386898714245414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 535
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d4a1abe9a042e0800000000000000
+      internalID: -2143526593134012817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 533
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d485d4dcd4c0920800000000000000
+      internalID: 2957824599436840337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 530
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afd2636a768d2870800000000000000
+      internalID: 8659725518714888097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_30
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 532
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d3463eaf1782910800000000000000
+      internalID: 1812824172387384644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 534
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb2f615ebd7d6610800000000000000
+      internalID: 1616086097659374531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 536
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2374383654cbc90a0800000000000000
+      internalID: -6873411925065906382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 518
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a8bed241bed5fa0800000000000000
+      internalID: -5810229472335787492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 517
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c34c091ce9f6330800000000000000
+      internalID: 3706355572543863823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 517
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1a45c575753a30800000000000000
+      internalID: 4194387776647076553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 517
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb9eaf926275eac0800000000000000
+      internalID: -3826526540469986356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 350
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd3e2b8d10c4c70800000000000000
+      internalID: 8956535789158915126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 446
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831e1a88b4485930800000000000000
+      internalID: 4132128217494328204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 412
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b651f1d2b6fc110800000000000000
+      internalID: 1283362260363078430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 424
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3437b99338d51af0800000000000000
+      internalID: -426196873582791618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 391
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aeb0cc0ceb8e220800000000000000
+      internalID: 2515470127152753159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 400
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2096daae96d9e0800000000000000
+      internalID: -1596914561274859993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 400
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ade63d70dfe4c20800000000000000
+      internalID: 3192767395906116120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 403
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e264055db1a666d0800000000000000
+      internalID: -2997530667421244699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 400
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80349effc41c134c0800000000000000
+      internalID: -4309450831961701624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 403
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b89f4f146160e0800000000000000
+      internalID: -2278429850830587478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 384
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247eb34c826fbbd90800000000000000
+      internalID: -7080795334158588094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 384
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564d58c29f07f970800000000000000
+      internalID: 8788510320938010198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 384
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f576f000e111090800000000000000
+      internalID: -8065632472036581628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 384
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b7200e8cd6ab60800000000000000
+      internalID: 7757129910638328006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_51
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2683f4dd2d7ee0800000000000000
+      internalID: -1261801927951896818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_52
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 384
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e421fb958a4858910800000000000000
+      internalID: 1839021881445782094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 363
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aae14fbc9174be0800000000000000
+      internalID: -1493196387685324168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 183
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665938f80648d7d0800000000000000
+      internalID: -2893485756247353759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 184
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ed7d40de0bb730800000000000000
+      internalID: 4015819780547012994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 183
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479902908dc150c20800000000000000
+      internalID: 3171973226744027508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_57
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 183
+        width: 124
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefa2740a201fa7f0800000000000000
+      internalID: -599242452767690774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 183
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ead0f6b284d5d0800000000000000
+      internalID: -3038660126331707177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_59
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 183
+        width: 131
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc1a1e883ad0a60800000000000000
+      internalID: 7641943951013956784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_60
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 183
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a6c158e671b0b0800000000000000
+      internalID: -5714655711979985137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_61
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 183
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa6bd6e0d330860800000000000000
+      internalID: 7494901337054161618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_62
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 183
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b096beedcf8d170800000000000000
+      internalID: 8203584755617827732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e70792ec1c3c4a0800000000000000
+      internalID: -6574197939828130247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 118
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e72b2afb17aa370800000000000000
+      internalID: 8334599128284823149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 22
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7449f46ac0ea90800000000000000
+      internalID: -7286601662057907605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_66
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 89
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4096d604a6d233730800000000000000
+      internalID: 3977572830268975364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 22
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb42b2f1c48adc50800000000000000
+      internalID: 6690806164947618745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_68
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 87
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b758fc487238a0800000000000000
+      internalID: -6326862254522780809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 22
+        width: 86
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1e018ab4e13be20800000000000000
+      internalID: 3365066656866951669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_70
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 61
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6fea47b8acb4c10800000000000000
+      internalID: 2038945956622169798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_71
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 68
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce427900d9fc8a0800000000000000
+      internalID: -6282630329297212163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6457f110b88515aa0800000000000000
+      internalID: -6174056260105702074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0321af7c93c6caea0800000000000000
+      internalID: -5860190019691867600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_74
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 80
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aceb390ec11cc50800000000000000
+      internalID: 6683655072871533196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_75
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 79
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f92df31f1c3be0a0800000000000000
+      internalID: -6851316303937066506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 22
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b90784297fdef00800000000000000
+      internalID: 1147845687701969802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 22
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ca2195507f1cc50800000000000000
+      internalID: 6683894924335819877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_78
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 22
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3743ccf75804230800000000000000
+      internalID: 3621040884339209174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_79
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 22
+        width: 87
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc1656f7ebb66c0800000000000000
+      internalID: -4149013177320747132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_80
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 21
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a8a9ba54d690c0800000000000000
+      internalID: -4569231285793807628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_81
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 21
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88f2e3ea194a1050800000000000000
+      internalID: 5772006252269992075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_82
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f210aefff01055d0800000000000000
+      internalID: -3075939853819440399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_83
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 23
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60073dfec96184e0800000000000000
+      internalID: -1981186023333887892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_84
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 31
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0a8d395d5a62d0800000000000000
+      internalID: -3284710340347425076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_85
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f459662d63a620800000000000000
+      internalID: 2784189006388459152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_86
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855ac5591addc660800000000000000
+      internalID: 7407816764442695042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_87
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c65ca199b0b010800000000000000
+      internalID: 1202665135820687561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_88
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 29
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d17d4383961ee990800000000000000
+      internalID: -7354916318630546991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_89
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 33
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1d74eb35bf7fa0800000000000000
+      internalID: -5800718526188806699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_90
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 24
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b433417d277fc00800000000000000
+      internalID: 934341715785108373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_91
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 21
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a9902ef2d82180800000000000000
+      internalID: -9139823454837955825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_92
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 28
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa0cecfd08c3810800000000000000
+      internalID: 1746412454247706570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_93
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 27
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c6b8ccba6f946e0800000000000000
+      internalID: -1852678553954718640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_94
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0c729c37a473690800000000000000
+      internalID: -7622541983144754956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_95
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 21
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25e63e67ba331440800000000000000
+      internalID: 4905328978639119660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_96
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 23
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e8e6e169f71200800000000000000
+      internalID: 150863311421368088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_97
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 26
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c87e047f7fc562e0800000000000000
+      internalID: -2133070702175160123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookGhost_98
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 24
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1d05f705dd159b0800000000000000
+      internalID: -5093046365776195124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

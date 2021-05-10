@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6709d403be034d74980049d716e1ca3b, type: 3}
+  m_Name: IronBoar
+  m_EditorClassIdentifier: 
+  name: Iron Boar
+  anim: {fileID: 0}
+  description: 
+  sprite: {fileID: 5933273750015796835, guid: d2b4e098fa5d8574d86ebbf8bcac85da, type: 3}
+  type1: 7
+  type2: 17
+  maxHp: 60
+  attack: 50
+  defense: 50
+  spAttack: 10
+  spDefense: 50
+  speed: 20
+  growthRate: 0
+  expYield: 100
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b0c529461d62f694fbbbff1e61664842, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: eb01a73de8c6fa3449fce7213c76cd24, type: 2}
+    level: 5

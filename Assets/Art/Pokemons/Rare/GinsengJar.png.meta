@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: e0e62c35c098a8340976b6037257c14d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2680908442912728495
+    second: GinsengJar_0
+  - first:
+      213: -188590680942994589
+    second: GinsengJar_1
+  - first:
+      213: 8198618422126388145
+    second: GinsengJar_2
+  - first:
+      213: 6748120697121798483
+    second: GinsengJar_3
+  - first:
+      213: -1339597179830545724
+    second: GinsengJar_4
+  - first:
+      213: 7814941704996678555
+    second: GinsengJar_5
+  - first:
+      213: -1785945992402358879
+    second: GinsengJar_6
+  - first:
+      213: -2705693699418554222
+    second: GinsengJar_7
+  - first:
+      213: -9127119408828254703
+    second: GinsengJar_8
+  - first:
+      213: -3867694049181516201
+    second: GinsengJar_9
+  - first:
+      213: 8089335839745973262
+    second: GinsengJar_10
+  - first:
+      213: 6352784253868355148
+    second: GinsengJar_11
+  - first:
+      213: 5963077539710668671
+    second: GinsengJar_12
+  - first:
+      213: -8416256837714802505
+    second: GinsengJar_13
+  - first:
+      213: 1648015272018097474
+    second: GinsengJar_14
+  - first:
+      213: 7689173817116834310
+    second: GinsengJar_15
+  - first:
+      213: -4481593188689427538
+    second: GinsengJar_16
+  - first:
+      213: 3059816205601606802
+    second: GinsengJar_17
+  - first:
+      213: -5696209942596794352
+    second: GinsengJar_18
+  - first:
+      213: 7197353583726638038
+    second: GinsengJar_19
+  - first:
+      213: -6211064765982953393
+    second: GinsengJar_20
+  - first:
+      213: 7673713105878603085
+    second: GinsengJar_21
+  - first:
+      213: 813804165010405458
+    second: GinsengJar_22
+  - first:
+      213: -1283467484417391385
+    second: GinsengJar_23
+  - first:
+      213: -4685559663809748170
+    second: GinsengJar_24
+  - first:
+      213: -2520343670199212087
+    second: GinsengJar_25
+  - first:
+      213: 7543510073050909137
+    second: GinsengJar_26
+  - first:
+      213: -4310521100691359621
+    second: GinsengJar_27
+  - first:
+      213: -433482422577971347
+    second: GinsengJar_28
+  - first:
+      213: 3614643114580288865
+    second: GinsengJar_29
+  - first:
+      213: -2174889850360619520
+    second: GinsengJar_30
+  - first:
+      213: -3488151133915520160
+    second: GinsengJar_31
+  - first:
+      213: -8131009429688579133
+    second: GinsengJar_32
+  - first:
+      213: 2544230664493915381
+    second: GinsengJar_33
+  - first:
+      213: 8973105166217525793
+    second: GinsengJar_34
+  - first:
+      213: 3508659981832341513
+    second: GinsengJar_35
+  - first:
+      213: -1095079393379445615
+    second: GinsengJar_36
+  - first:
+      213: -5675775148238272151
+    second: GinsengJar_37
+  - first:
+      213: -927855255131162480
+    second: GinsengJar_38
+  - first:
+      213: 6650398799019292528
+    second: GinsengJar_39
+  - first:
+      213: -3017528610262310829
+    second: GinsengJar_40
+  - first:
+      213: -1836938671770949393
+    second: GinsengJar_41
+  - first:
+      213: -462477254458239305
+    second: GinsengJar_42
+  - first:
+      213: -4539646753409115679
+    second: GinsengJar_43
+  - first:
+      213: -2427744957176045304
+    second: GinsengJar_44
+  - first:
+      213: -8214142865769609166
+    second: GinsengJar_45
+  - first:
+      213: -2055373128095864926
+    second: GinsengJar_46
+  - first:
+      213: 7142761864598659381
+    second: GinsengJar_47
+  - first:
+      213: 5706657153152901898
+    second: GinsengJar_48
+  - first:
+      213: -8198213658928138424
+    second: GinsengJar_49
+  - first:
+      213: -3752230375849905083
+    second: GinsengJar_50
+  - first:
+      213: 2653159432949453064
+    second: GinsengJar_51
+  - first:
+      213: -2330139718880874128
+    second: GinsengJar_52
+  - first:
+      213: -8842659655861079809
+    second: GinsengJar_53
+  - first:
+      213: 8388186550361597927
+    second: GinsengJar_54
+  - first:
+      213: 8247172126920125190
+    second: GinsengJar_55
+  - first:
+      213: -4111168671089337819
+    second: GinsengJar_56
+  - first:
+      213: 2325081117085184529
+    second: GinsengJar_57
+  - first:
+      213: -7380188458001354516
+    second: GinsengJar_58
+  - first:
+      213: -1719897542932949702
+    second: GinsengJar_59
+  - first:
+      213: 408517684664701465
+    second: GinsengJar_60
+  - first:
+      213: 4897538743715469678
+    second: GinsengJar_61
+  - first:
+      213: 2501772787809396639
+    second: GinsengJar_62
+  - first:
+      213: -6646543879678898942
+    second: GinsengJar_63
+  - first:
+      213: -8411095977263954339
+    second: GinsengJar_64
+  - first:
+      213: 5101914487516379451
+    second: GinsengJar_65
+  - first:
+      213: 6728467974620041138
+    second: GinsengJar_66
+  - first:
+      213: -7380643428608244233
+    second: GinsengJar_67
+  - first:
+      213: -198161917585497929
+    second: GinsengJar_68
+  - first:
+      213: -3743635148801923460
+    second: GinsengJar_69
+  - first:
+      213: 8447358179774198892
+    second: GinsengJar_70
+  - first:
+      213: -8166803181685412971
+    second: GinsengJar_71
+  - first:
+      213: -4852114160299454632
+    second: GinsengJar_72
+  - first:
+      213: 8709144033432363699
+    second: GinsengJar_73
+  - first:
+      213: -5827042039038832907
+    second: GinsengJar_74
+  - first:
+      213: -1311572461618263902
+    second: GinsengJar_75
+  - first:
+      213: 3398653015275921553
+    second: GinsengJar_76
+  - first:
+      213: -3834414422797657175
+    second: GinsengJar_77
+  - first:
+      213: -8773128100797909011
+    second: GinsengJar_78
+  - first:
+      213: -4387725434030614732
+    second: GinsengJar_79
+  - first:
+      213: -3269063268923436494
+    second: GinsengJar_80
+  - first:
+      213: -1398274953226034436
+    second: GinsengJar_81
+  - first:
+      213: -1060264545106515105
+    second: GinsengJar_82
+  - first:
+      213: 456406432182030505
+    second: GinsengJar_83
+  - first:
+      213: 1463111901273922201
+    second: GinsengJar_84
+  - first:
+      213: 7596005303993078911
+    second: GinsengJar_85
+  - first:
+      213: -7280378563640500190
+    second: GinsengJar_86
+  - first:
+      213: -2735027109885614328
+    second: GinsengJar_87
+  - first:
+      213: 4743584666494715630
+    second: GinsengJar_88
+  - first:
+      213: -6492966347274673900
+    second: GinsengJar_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GinsengJar_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 359
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a8275600843520800000000000000
+      internalID: 2680908442912728495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 412
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b917e56cdf16df0800000000000000
+      internalID: -188590680942994589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 359
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b321db440857c170800000000000000
+      internalID: 8198618422126388145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 359
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d512667bc86de0800000000000000
+      internalID: -1339597179830545724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 359
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad23de059b0737e0800000000000000
+      internalID: -1785945992402358879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 359
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f7365145f55180800000000000000
+      internalID: -9127119408828254703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 359
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c15ec4618134070800000000000000
+      internalID: 8089335839745973262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 359
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f809abd6b11c250800000000000000
+      internalID: 5963077539710668671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_13
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 359
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88e815ff2733b80800000000000000
+      internalID: -8416256837714802505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245be09882deed610800000000000000
+      internalID: 1648015272018097474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 257
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60abb7109de65ba60800000000000000
+      internalID: 7689173817116834310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 257
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34b584dbe2ec1c0800000000000000
+      internalID: -4481593188689427538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c0edc90a6a67a20800000000000000
+      internalID: 3059816205601606802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 133
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018487dac3ff2f0b0800000000000000
+      internalID: -5696209942596794352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 205
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d339e083f222e360800000000000000
+      internalID: 7197353583726638038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 202
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4034a2c08dddc9a0800000000000000
+      internalID: -6211064765982953393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 202
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d455728a9618e7a60800000000000000
+      internalID: 7673713105878603085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 205
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258bd2c83963b4b00800000000000000
+      internalID: 813804165010405458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 205
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4898e7f15303ee0800000000000000
+      internalID: -1283467484417391385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 205
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a8b89f4c89feb0800000000000000
+      internalID: -4685559663809748170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 202
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c72fd909c0f50dd0800000000000000
+      internalID: -2520343670199212087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9c7c7b17eefa860800000000000000
+      internalID: 7543510073050909137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 205
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783774a5e3fd24c0800000000000000
+      internalID: -4310521100691359621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 205
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3dd98806fbf9f0800000000000000
+      internalID: -433482422577971347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 205
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ae52f2cac92230800000000000000
+      internalID: 3614643114580288865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 189
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e17a3443d31d1e0800000000000000
+      internalID: -2174889850360619520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 189
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e6145609979fc0800000000000000
+      internalID: -3488151133915520160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 189
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8f0ee00ad82f80800000000000000
+      internalID: -8131009429688579133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 189
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd0d73f4cee4320800000000000000
+      internalID: 2544230664493915381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 189
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a3e9c6b9fd68c70800000000000000
+      internalID: 8973105166217525793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 189
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908cebee9a341b030800000000000000
+      internalID: 3508659981832341513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 189
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19494ccf71f7dc0f0800000000000000
+      internalID: -1095079393379445615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 186
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969844003989b31b0800000000000000
+      internalID: -5675775148238272151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 189
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0987deabf889f13f0800000000000000
+      internalID: -927855255131162480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 189
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ba3ee876fa4c50800000000000000
+      internalID: 6650398799019292528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 186
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350acbd67b59f16d0800000000000000
+      internalID: -3017528610262310829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 189
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82ae2b202e186e0800000000000000
+      internalID: -1836938671770949393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 189
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6915b2363f499f0800000000000000
+      internalID: -462477254458239305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 189
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95b41745feff0c0800000000000000
+      internalID: -4539646753409115679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 173
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801a64ef2daee4ed0800000000000000
+      internalID: -2427744957176045304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384e7f7590810e80800000000000000
+      internalID: -8214142865769609166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a766f2a709d973e0800000000000000
+      internalID: -2055373128095864926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5312c966210302360800000000000000
+      internalID: 7142761864598659381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 173
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03ee94127e123f40800000000000000
+      internalID: 5706657153152901898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84735dafc181a3e80800000000000000
+      internalID: -8198213658928138424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54439047a566debc0800000000000000
+      internalID: -3752230375849905083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801dd6d727ae1d420800000000000000
+      internalID: 2653159432949453064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 173
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b313754ea9afd0800000000000000
+      internalID: -2330139718880874128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0f8b6b4ef884580800000000000000
+      internalID: -8842659655861079809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 173
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7230c9933d86470800000000000000
+      internalID: 8388186550361597927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba392aa57d37270800000000000000
+      internalID: 8247172126920125190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 157
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a510420e132f6c0800000000000000
+      internalID: -4111168671089337819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 154
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112b4d905f8544020800000000000000
+      internalID: 2325081117085184529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 157
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0346903bd449990800000000000000
+      internalID: -7380188458001354516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 157
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a351a6f0c42b128e0800000000000000
+      internalID: -1719897542932949702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 157
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91297e67ba85ba500800000000000000
+      internalID: 408517684664701465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 157
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699fd40a8d87f340800000000000000
+      internalID: 4897538743715469678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 157
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f972e16781518b220800000000000000
+      internalID: 2501772787809396639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d41bb6e8bb2c3a0800000000000000
+      internalID: -6646543879678898942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560777c5c8c54b80800000000000000
+      internalID: -8411095977263954339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_65
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 7
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3935def134adc640800000000000000
+      internalID: 5101914487516379451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_66
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfc1d559f1506d50800000000000000
+      internalID: 6728467974620041138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_67
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 8
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50cffe7efa29990800000000000000
+      internalID: -7380643428608244233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 8
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06e4e29ccff3df0800000000000000
+      internalID: -198161917585497929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_69
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 39
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76aef2baafeb0cc0800000000000000
+      internalID: -3743635148801923460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_70
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 45
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c647eeb228b0b3570800000000000000
+      internalID: 8447358179774198892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_71
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6c1d96cfa9ae80800000000000000
+      internalID: -8166803181685412971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_72
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 45
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f45b9f0e3d9acb0800000000000000
+      internalID: -4852114160299454632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_73
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 40
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e27afa581dd870800000000000000
+      internalID: 8709144033432363699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_74
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe82d37320322fa0800000000000000
+      internalID: -5827042039038832907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_75
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 30
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80f009bcb5ccde0800000000000000
+      internalID: -1311572461618263902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_76
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 37
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e45a19e07a2f20800000000000000
+      internalID: 3398653015275921553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_77
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 33
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abd287e56c69cac0800000000000000
+      internalID: -3834414422797657175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_78
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 34
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de771fe69769f3680800000000000000
+      internalID: -8773128100797909011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_79
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 32
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43798a407faab13c0800000000000000
+      internalID: -4387725434030614732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_80
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329a83f644f1a2d0800000000000000
+      internalID: -3269063268923436494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_81
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2e2a2a654589ce0800000000000000
+      internalID: -1398274953226034436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_82
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b2cf4830f2941f0800000000000000
+      internalID: -1060264545106515105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_83
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d96f5b3b755600800000000000000
+      internalID: 456406432182030505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 12
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a1416b5840e4410800000000000000
+      internalID: 1463111901273922201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_85
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 22
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749d70249e6a6960800000000000000
+      internalID: 7596005303993078911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_86
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 12
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220e6dbf446e6fa90800000000000000
+      internalID: -7280378563640500190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_87
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 17
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8076438955b3b0ad0800000000000000
+      internalID: -2735027109885614328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_88
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee648602f1994d140800000000000000
+      internalID: 4743584666494715630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GinsengJar_89
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 10
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a024228954e5a0800000000000000
+      internalID: -6492966347274673900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
